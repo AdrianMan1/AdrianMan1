@@ -6,13 +6,13 @@
   - [osTicket: Post-Installation Configuration](https://github.com/AdrianMan1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AdrianMan1/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Of Active Directory within Azure VMs](https://github.com/AdrianMan1/configure-ad)
+  - [Active Directory Administration within Azure VMs](https://github.com/AdrianMan1/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AdrianMan1/azure-network-protocols)
+- <b>Networking</b>
+  - [Routing Within Cisco IOS](https://google.com)
 
 <h2>📡 Connect with me:</h2>
 
-[<img align="left" alt="adrianmandu | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
+[<img align="left" alt="adrianmandu | Linkedin" width="22px" src="https://github.com/user-attachments/assets/206123d5-fc81-4435-978a-33d00d11672d" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/adrianmandu
