@@ -5,12 +5,13 @@
 
 - <b>Microsoft Azure</b>
   - [Active Directory Administration within Azure VMs](https://github.com/AdrianMan1/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AdrianMan1/azure-network-protocols)
+  - [Group Policy Object Configuration](https://github.com/AdrianMan1/GPO-Config)
+- <b>Networking</b>
+  - [Routing Within Cisco IOS](https://google.com)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Post-Installation Configuration](https://github.com/AdrianMan1/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AdrianMan1/ticket-lifecycle)
-- <b>Networking</b>
-  - [Routing Within Cisco IOS](https://google.com)
+
 
 <h2>📡 Connect with me:</h2>
 
